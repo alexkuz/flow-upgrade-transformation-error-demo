@@ -1,0 +1,11 @@
+{
+  "name": "flow-upgrade-transformation-error-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/alexkuz/flow-upgrade-transformation-error-demo",
+  "author": "Kuzya <alexkuz@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "flow-bin": "0.52.0"
+  }
+}
